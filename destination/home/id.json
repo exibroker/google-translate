@@ -1,0 +1,91 @@
+{
+    "start": "Mulai gratis",
+    "head": {
+        "login": "Gabung",
+        "register": "Registrasi"
+    },
+    "s1": {
+        "title": "Transaksi sukses setiap hari dengan TDTRADE",
+        "desc": "Kami mendukung transaksi di platform blockchain."
+    },
+    "s2": {
+        "title": "Pembaruan harga Cryptocurrency waktu nyata",
+        "desc": "Cryptocurrency dengan teknologi blockchain dijuluki sebagai aset masa depan, yang dapat diperdagangkan 24/7, tidak seperti aset tradisional. Perdagangan Cryptocurrency menjanjikan pedagang keuntungan konstan dari perdagangan di TDTRADE terlepas dari waktu dan tempat."
+    },
+    "s3": {
+        "title": "TRANSAKSI CEPAT, KEUNTUNGAN TEROPTIMAL",
+        "desc": "TDTRADE adalah platform perdagangan yang menyediakan solusi perdagangan sederhana dan cepat. Mudah untuk memahami dan menguasai perdagangan hanya dalam beberapa menit",
+        "secTitle": "Keamanan tinggi",
+        "secDesc": "Menjaga aset Anda tetap aman selalu menjadi prioritas utama kami. Dengan teknologi keamanan terdepan di dunia, uang Anda akan selalu aman dengan TDTRADE.",
+        "collTitle": "Perdagangan tanpa henti",
+        "collDesc": "Trading 24/7 dengan komisi afiliasi yang sangat menarik, trader TDTRADE selalu dapat mengoptimalkan keuntungan mereka.",
+        "startTitle": "mulai gratis",
+        "startDesc": "Setoran dan Penarikan diselesaikan dengan cepat, memastikan pengalaman perdagangan yang lancar untuk semua pelanggan kami.",
+        "techTitle": "Teknologi maju",
+        "techDesc": "Tim TDTRADE selalu meningkatkan dan berinovasi platform perdagangan kami untuk memastikan bahwa pelanggan kami selalu puas saat berdagang dan menghasilkan uang di TDTRADE."
+    },
+    "s4": {
+        "title": "Pelanggan berbicara tentang TDTRADE",
+        "content1": "Pertama kali menginvestasikan bitcoin di bursa, saya kewalahan dengan begitu banyak indikator dan alat yang rumit, sungguh menakjubkan bahwa pertukaran TDTRADE dapat membantu saya menyederhanakan indikator begitu banyak sistem untuk memberikan perintah yang efektif.",
+        "content2": "Reputasi adalah yang utama, yang dapat saya percayai di TDTRADE setelah ratusan transaksi saya. Tim dukungan selalu ada setiap kali saya memiliki masalah dan memecahkan masalah secepat mungkin.",
+        "content3": "Saya seorang investor kecil, biaya transaksi bursa saat ini terlalu tinggi, itu selalu menjadi perhatian saya. Untungnya, saya menemukan pertukaran TDTRADE, dengan biaya yang saya anggap cocok."
+    },
+    "s5": {
+        "title": "Mulai trading dengan TDTRADE hari ini",
+        "desc": "Daftar, deposit, dan trading dengan mudah dalam hitungan menit. Ikuti tren pasar dalam sepersekian detik, dapatkan untung secara instan."
+    },
+    "footer": {
+        "about": "Tentang kami",
+        "support": "Mendukung",
+        "security": "Keamanan",
+        "lang": "Bahasa",
+        "broker": "Pertukaran Aset Digital",
+        "faq": "Pertanyaan yang sering diajukan",
+        "vip": "Manfaat anggota VIP",
+        "policy": "Syarat dan ketentuan",
+        "warning": "Peringatan risiko",
+        "indemnity": "Ganti rugi"
+    },
+    "risk": "Peringatan Risiko: Perdagangan dan investasi dalam opsi digital membawa tingkat risiko yang signifikan dan tidak sesuai dan/atau sesuai untuk semua klien. Harap pastikan bahwa Anda mempertimbangkan dengan cermat tujuan investasi, tingkat pengalaman, dan selera risiko Anda sebelum membeli atau menjual aset digital apa pun. Anda harus sepenuhnya menyadari dan memahami semua risiko yang terlibat dalam perdagangan dan investasi aset digital, Anda tidak boleh menginvestasikan dana yang Anda tidak mampu kehilangannya. Anda diberikan hak non-eksklusif terbatas untuk menggunakan kekayaan intelektual yang terkandung dalam situs web ini untuk penggunaan pribadi, non-komersial, dan tidak dapat dialihkan sehubungan dengan layanan yang disediakan di situs web.",
+    "email": "Alamat email",
+    "email_nickname": "Email/Nama Panggilan",
+    "password": "Kata sandi",
+    "nickname": "Nama panggilan",
+    "invite_code": "Kode invitasi",
+    "gg_code": "Otentikasi Google / Telegram",
+    "digits": "Digit",
+    "login": "Gabung",
+    "signup": "Daftar",
+    "resend": "Kirim ulang",
+    "forgot": "lupa",
+    "submit": "Kirim",
+    "optional": "opsional",
+    "login_page": "Halaman masuk",
+    "enter_email_address": "Masukkan alamat email",
+    "enter_password": "Masukkan kata kunci",
+    "enter_email_nickname": "Masukkan email/nama panggilan",
+    "enter_invite_code": "Masukkan kode undangan",
+    "enter_nickname": "Masukkan nama panggilan",
+    "enter_auth_code": "Masukkan kode (6 digit)",
+    "error_email": "Alamat email salah. Silakan coba lagi.",
+    "error_nickname": "Nama panggilan harus antara 4 dan 20 karakter, dimulai dengan huruf dan tidak mengandung karakter khusus.",
+    "error_password": "Kata sandi Anda harus minimal 6 karakter.",
+    "register_successfully": "Pendaftaran berhasil.",
+    "a_verification_link_to": "Tautan verifikasi telah dikirim ke",
+    "wait_to_get_verification_link": "Harap tunggu beberapa menit dan dapatkan tautan verifikasi untuk mengaktifkan akun Anda.",
+    "security_verification": "Verifikasi keamanan",
+    "google_authentication_code": "Kode Otentikasi Google/Telegram",
+    "forgot_your_password": "Lupa kata sandi Anda",
+    "resend_email": "Kirim ulang email",
+    "resend_confirmation_email": "mengirimkan kembali email konfirmasi",
+    "please_enter_email_to_resend": "Silakan masukkan email Anda untuk mengirim ulang email konfirmasi Anda.",
+    "you_have_account": "Punya akun TDTrade?",
+    "login_to_your_account": "Masuk ke akun Anda",
+    "you_need_a_account": "Butuh akun TDTrade",
+    "create_account": "Buat akun TDTrade",
+    "didnt_receive_confirm_email": "Tidak menerima email konfirmasi?",
+    "request_new_one": "Minta yang baru",
+    "err_registration_error": "Kesalahan pendaftaran",
+    "err_login_error": "Kesalahan masuk",
+    "redirect_to": "Mengarahkan ke"
+}

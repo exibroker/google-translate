@@ -1,0 +1,15 @@
+{
+    "amount": "額",
+    "profit": "利益",
+    "trader_sentiments": "トレーダーの感情",
+    "buy": "買う",
+    "sell": "売る",
+    "please_trade": "取引してください",
+    "wait_time": "待ち時間",
+    "indicator": "インジケーター",
+    "last_result": "最終結果",
+    "open": "開ける",
+    "closed": "閉まっている",
+    "you_have_not_made_any_open_order": "未決済の注文はありません",
+    "you_have_not_made_any_close_order": "クローズドオーダーは行っていません"
+}

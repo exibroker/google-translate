@@ -1,0 +1,15 @@
+{
+    "amount": "จำนวน",
+    "profit": "กำไร",
+    "trader_sentiments": "ความรู้สึกของผู้ซื้อขาย",
+    "buy": "ซื้อ",
+    "sell": "ขาย",
+    "please_trade": "กรุณาซื้อขาย",
+    "wait_time": "รอเวลา",
+    "indicator": "ตัวชี้วัด",
+    "last_result": "ผลลัพธ์ล่าสุด",
+    "open": "เปิด",
+    "closed": "ปิด",
+    "you_have_not_made_any_open_order": "คุณยังไม่ได้เปิดออร์เดอร์ใด ๆ",
+    "you_have_not_made_any_close_order": "คุณยังไม่ได้ปิดคำสั่งใด ๆ"
+}

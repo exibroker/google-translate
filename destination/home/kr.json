@@ -1,0 +1,91 @@
+{
+    "start": "무료로 시작하세요",
+    "head": {
+        "login": "로그인",
+        "register": "등록"
+    },
+    "s1": {
+        "title": "TDTRADE로 매일 성공적인 거래",
+        "desc": "우리는 블록체인 플랫폼에서 거래를 지원합니다."
+    },
+    "s2": {
+        "title": "실시간 암호화폐 가격 업데이트",
+        "desc": "블록체인 기술이 적용된 암호화폐는 기존 자산과 달리 24시간 거래가 가능한 미래의 자산으로 불린다. 암호 화폐 거래는 시간과 장소에 관계없이 TDTRADE에서 거래함으로써 거래자에게 일정한 이익을 약속합니다."
+    },
+    "s3": {
+        "title": "빠른 거래, 최적화된 이익",
+        "desc": "TDTRADE는 간단하고 빠른 거래 솔루션을 제공하는 거래 플랫폼입니다. 단 몇 분 만에 이해하고 마스터하기 쉬운 거래",
+        "secTitle": "높은 보안",
+        "secDesc": "자산을 안전하게 유지하는 것은 항상 우리의 최우선 과제입니다. 세계 최고의 보안 기술로 TDTRADE와 함께라면 여러분의 돈은 항상 안전합니다.",
+        "collTitle": "논스톱 거래",
+        "collDesc": "매우 매력적인 제휴 수수료로 연중무휴 거래를 하는 TDTRADE 거래자는 항상 자신의 이익을 최적화할 수 있습니다.",
+        "startTitle": "무료로 시작",
+        "startDesc": "입출금이 신속하게 완료되어 모든 고객에게 원활한 거래 경험을 보장합니다.",
+        "techTitle": "첨단 기술",
+        "techDesc": "TDTRADE 팀은 TDTRADE에서 거래하고 돈을 벌 때 고객이 항상 만족할 수 있도록 항상 거래 플랫폼을 업그레이드하고 혁신하고 있습니다."
+    },
+    "s4": {
+        "title": "고객이 TDTRADE에 대해 이야기합니다.",
+        "content1": "처음으로 거래소에 비트코인을 투자했을 때 복잡한 지표와 도구에 압도당했습니다. TDTRADE exchange가 지표를 단순화하여 효과적인 명령을 내리는 데 도움이 될 수 있다는 것이 놀랍습니다.",
+        "content2": "수백 번의 거래 후에 TDTRADE를 신뢰할 수 있는 평판이 우선입니다. 지원 팀은 문제가 있을 때마다 항상 거기에 있고 가능한 한 빨리 문제를 해결합니다.",
+        "content3": "저는 소액 투자자이며 현재 거래소의 거래 수수료가 너무 높아 항상 걱정됩니다. 운 좋게도 TDTRADE 거래소를 찾았는데 수수료가 적당하다고 생각합니다."
+    },
+    "s5": {
+        "title": "오늘 TDTRADE와 거래를 시작하세요",
+        "desc": "몇 분 안에 쉽게 등록, 입금 및 거래하세요. 순식간에 시장 동향을 파악하고 즉시 수익을 올리십시오."
+    },
+    "footer": {
+        "about": "회사 소개",
+        "support": "지원하다",
+        "security": "보안",
+        "lang": "언어",
+        "broker": "디지털 자산 교환",
+        "faq": "자주 묻는 질문",
+        "vip": "VIP 회원 혜택",
+        "policy": "이용약관",
+        "warning": "위험 경고",
+        "indemnity": "보장"
+    },
+    "risk": "위험 경고: 디지털 옵션에 대한 거래 및 투자는 상당한 수준의 위험을 수반하며 모든 고객에게 적합하거나 적절하지 않습니다. 디지털 자산을 구매하거나 판매하기 전에 투자 목표, 경험 수준 및 위험 성향을 신중하게 고려하십시오. 디지털 자산 거래 및 투자와 관련된 모든 위험을 완전히 인식하고 이해해야 하며 잃을 여유가 없는 자금을 투자해서는 안 됩니다. 귀하는 웹사이트에서 제공되는 서비스와 관련하여 귀하의 개인적, 비상업적, 양도 불가능한 사용을 위해 이 웹사이트에 포함된 지적 재산을 사용할 수 있는 제한적이고 비독점적인 권리가 부여됩니다.",
+    "email": "이메일 주소",
+    "email_nickname": "이메일/닉네임",
+    "password": "비밀번호",
+    "nickname": "별명",
+    "invite_code": "초대 코드",
+    "gg_code": "구글 / 텔레그램 인증",
+    "digits": "숫자",
+    "login": "로그인",
+    "signup": "가입하기",
+    "resend": "재전송",
+    "forgot": "잊어버렸다",
+    "submit": "제출하다",
+    "optional": "선택 과목",
+    "login_page": "로그인 페이지",
+    "enter_email_address": "이메일 주소 입력",
+    "enter_password": "암호를 입력",
+    "enter_email_nickname": "이메일/닉네임 입력",
+    "enter_invite_code": "초대 코드 입력",
+    "enter_nickname": "닉네임 입력",
+    "enter_auth_code": "코드 입력(6digist)",
+    "error_email": "잘못된 이메일 주소. 다시 시도해 주세요.",
+    "error_nickname": "닉네임은 4~20자 사이여야 하며 문자로 시작하고 특수 문자를 포함할 수 없습니다.",
+    "error_password": "비밀번호는 6자 이상이어야 합니다.",
+    "register_successfully": "등록이 완료되었습니다.",
+    "a_verification_link_to": "확인 링크가 다음으로 전송되었습니다.",
+    "wait_to_get_verification_link": "잠시 기다렸다가 계정을 활성화하기 위한 확인 링크를 받으십시오.",
+    "security_verification": "보안 확인",
+    "google_authentication_code": "구글/텔레그램 인증 코드",
+    "forgot_your_password": "비밀번호를 잊어 버렸습니까",
+    "resend_email": "이메일 재전송",
+    "resend_confirmation_email": "확인 이메일 재전송",
+    "please_enter_email_to_resend": "확인 이메일을 다시 보내려면 이메일을 입력하세요.",
+    "you_have_account": "TDTrade 계정이 있습니까?",
+    "login_to_your_account": "계정에 로그인",
+    "you_need_a_account": "TDTrade 계정이 필요합니다",
+    "create_account": "TDTrade 계정 만들기",
+    "didnt_receive_confirm_email": "확인 이메일을 받지 못하셨나요?",
+    "request_new_one": "새로 요청",
+    "err_registration_error": "등록 오류",
+    "err_login_error": "로그인 오류",
+    "redirect_to": "리디렉션"
+}

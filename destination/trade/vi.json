@@ -1,0 +1,15 @@
+{
+  "amount": "Số lượng",
+  "profit": "Lợi nhuận",
+  "trader_sentiments": "Chỉ báo tâm lý",
+  "buy": "Mua",
+  "sell": "Bán",
+  "please_trade": "Hãy giao dịch",
+  "wait_time": "Thời gian chờ đợi",
+  "indicator": "Chỉ báo",
+  "last_result": "Kết quả",
+  "open": "Mở",
+  "closed": "Đã đóng cửa",
+  "you_have_not_made_any_open_order": "Bạn không có lệnh đang mở.",
+  "you_have_not_made_any_close_order": "Bạn không có lệnh đã đóng."
+}

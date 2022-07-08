@@ -1,0 +1,91 @@
+{
+  "start": "Bắt đầu miễn phí",
+  "head": {
+    "login": "Đăng nhập",
+    "register": "Sự đăng ký"
+  },
+  "s1": {
+    "title": "Giao dịch thành công mỗi ngày với TDTRADE",
+    "desc": "Chúng tôi hỗ trợ các giao dịch trên nền tảng blockchain."
+  },
+  "s2": {
+    "title": "Cập nhật giá tiền điện tử theo thời gian thực",
+    "desc": "Tiền điện tử với công nghệ blockchain được mệnh danh là tài sản của tương lai, có thể giao dịch 24/7, không giống như các loại tài sản truyền thống. Giao dịch tiền điện tử hứa hẹn cho các nhà giao dịch một khoản lợi nhuận không đổi từ giao dịch trên TDTRADE bất kể thời gian và địa điểm."
+  },
+  "s3": {
+    "title": "GIAO DỊCH NHANH CHÓNG, LỢI NHUẬN TỐI ƯU",
+    "desc": "TDTRADE là một sàn giao dịch cung cấp các giải pháp giao dịch đơn giản và nhanh chóng. Dễ dàng nắm bắt và thành thạo giao dịch chỉ trong vài phút",
+    "secTitle": "Bảo mật cao",
+    "secDesc": "Giữ an toàn cho tài sản của bạn luôn là ưu tiên hàng đầu của chúng tôi. Với công nghệ bảo mật hàng đầu thế giới, tiền của bạn sẽ luôn được an toàn với TDTRADE.",
+    "collTitle": "Giao dịch không ngừng",
+    "collDesc": "Giao dịch 24/7 với hoa hồng liên kết siêu hấp dẫn, nhà giao dịch TDTRADE luôn có thể tối ưu hóa lợi nhuận của mình.",
+    "startTitle": "bắt đầu miễn phí",
+    "startDesc": "Gửi và Rút tiền được hoàn tất nhanh chóng, đảm bảo trải nghiệm giao dịch suôn sẻ cho tất cả khách hàng của chúng tôi.",
+    "techTitle": "Công nghệ tiên tiến",
+    "techDesc": "Đội ngũ TDTRADE luôn nâng cấp và đổi mới nền tảng giao dịch của chúng tôi để đảm bảo rằng khách hàng của chúng tôi luôn hài lòng khi giao dịch và kiếm tiền trên TDTRADE."
+  },
+  "s4": {
+    "title": "Khách hàng nói về TDTRADE",
+    "content1": "Lần đầu tiên đầu tư bitcoin trên sàn giao dịch, tôi đã bị choáng ngợp với rất nhiều chỉ báo và công cụ phức tạp, thật tuyệt vời khi sàn giao dịch TDTRADE có thể giúp tôi đơn giản hóa các chỉ báo hệ thống để đưa ra các lệnh hiệu quả.",
+    "content2": "Danh tiếng đặt lên hàng đầu, điều mà tôi có thể tin tưởng vào TDTRADE sau hàng trăm giao dịch của mình. Đội ngũ hỗ trợ luôn ở đó bất cứ khi nào tôi gặp sự cố và giải quyết vấn đề nhanh nhất có thể.",
+    "content3": "Tôi là một nhà đầu tư nhỏ, phí giao dịch của các sàn hiện nay quá cao, đó luôn là điều khiến tôi trăn trở. May mắn thay, tôi đã tìm thấy sàn giao dịch TDTRADE, với mức phí mà tôi cho là phù hợp."
+  },
+  "s5": {
+    "title": "Bắt đầu giao dịch với TDTRADE ngay hôm nay",
+    "desc": "Dễ dàng đăng ký, gửi tiền và giao dịch trong vài phút. Bắt kịp xu hướng thị trường trong tích tắc, sinh lời ngay lập tức."
+  },
+  "footer": {
+    "about": "Về chúng tôi",
+    "support": "Ủng hộ",
+    "security": "Bảo mật",
+    "lang": "Ngôn ngữ",
+    "broker": "Trao đổi tài sản kỹ thuật số",
+    "faq": "Các câu hỏi thường gặp",
+    "vip": "Quyền lợi của thành viên VIP",
+    "policy": "Điều khoản và điều kiện",
+    "warning": "Cảnh báo rủi ro",
+    "indemnity": "Bồi thường"
+  },
+  "risk": "Cảnh báo Rủi ro: Giao dịch và đầu tư vào các tùy chọn kỹ thuật số mang một mức độ rủi ro đáng kể và không phù hợp và / hoặc phù hợp với tất cả khách hàng. Hãy đảm bảo rằng bạn cân nhắc cẩn thận các mục tiêu đầu tư, mức độ kinh nghiệm và khẩu vị rủi ro trước khi mua hoặc bán bất kỳ tài sản kỹ thuật số nào. Bạn nên nhận thức đầy đủ và hiểu tất cả các rủi ro liên quan đến giao dịch và đầu tư vào tài sản kỹ thuật số, bạn không nên đầu tư các quỹ mà bạn không thể để mất. Bạn được cấp quyền hạn chế, không độc quyền để sử dụng tài sản trí tuệ có trong trang web này cho mục đích sử dụng cá nhân, phi thương mại, không thể chuyển nhượng của bạn liên quan đến các dịch vụ được cung cấp trên trang web.",
+  "email": "Địa chỉ email",
+  "email_nickname": "Email / biệt danh",
+  "password": "Mật khẩu",
+  "nickname": "Tên nick",
+  "invite_code": "Mã mời",
+  "gg_code": "Xác thực Google / Telegram",
+  "digits": "Chữ số",
+  "login": "Đăng nhập",
+  "signup": "Đăng ký",
+  "resend": "Gửi lại",
+  "forgot": "Quên mật khẩu",
+  "submit": "Gửi đi",
+  "optional": "không bắt buộc",
+  "login_page": "Trang đăng nhập",
+  "enter_email_address": "Nhập địa chỉ email",
+  "enter_password": "Nhập mật khẩu",
+  "enter_email_nickname": "Nhập email / biệt danh",
+  "enter_invite_code": "Nhập mã mời",
+  "enter_nickname": "Nhập biệt danh",
+  "enter_auth_code": "Nhập mã (6digist)",
+  "error_email": "Địa chỉ email không hợp lệ. Vui lòng thử lại.",
+  "error_nickname": "Biệt danh phải có từ 4 đến 20 ký tự, bắt đầu bằng một chữ cái và không chứa ký tự đặc biệt.",
+  "error_password": "Mật khẩu của bạn phải dài ít nhất 6 ký tự.",
+  "register_successfully": "Đăng ký thành công.",
+  "a_verification_link_to": "Một liên kết xác minh đã được gửi đến",
+  "wait_to_get_verification_link": "Vui lòng đợi vài phút và nhận liên kết xác minh để kích hoạt tài khoản của bạn.",
+  "security_verification": "Xác minh bảo mật",
+  "google_authentication_code": "Mã xác thực Google / Telegram",
+  "forgot_your_password": "Quên mật khẩu",
+  "resend_email": "Gửi lại email",
+  "resend_confirmation_email": "Gửi lại email xác nhận",
+  "please_enter_email_to_resend": "Vui lòng nhập email của bạn để gửi lại email xác nhận của bạn.",
+  "you_have_account": "Bạn có tài khoản TDTrade?",
+  "login_to_your_account": "Đăng nhập vào tài khoản của bạn",
+  "you_need_a_account": "Cần tài khoản TDTrade",
+  "create_account": "Tạo tài khoản TDTrade",
+  "didnt_receive_confirm_email": "Không nhận được email xác nhận?",
+  "request_new_one": "Yêu cầu một cái mới",
+  "err_registration_error": "Lỗi đăng ký",
+  "err_login_error": "Lỗi đăng nhập",
+  "redirect_to": "Chuyển hướng đến"
+}

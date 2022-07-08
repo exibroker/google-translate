@@ -1,0 +1,99 @@
+{
+  "start": "Start for free",
+  "head": {
+    "login": "Login",
+    "register": "Registration"
+  },
+  "s1": {
+    "title": "Successful transactions every day with TDTRADE",
+    "desc": "We support transactions on the blockchain platform."
+  },
+  "s2": {
+    "title": "Real-time Cryptocurrency price updates",
+    "desc": "Cryptocurrencies with blockchain technology are dubbed the assets of the future, which can be traded 24/7, unlike traditional assets. Cryptocurrency trading promises traders a constant profit from trading on TDTRADE regardless of time and place."
+  },
+  "s3": {
+    "title": "FAST TRANSACTION, OPTIMIZED PROFIT",
+    "desc": "TDTRADE is a trading platform that provides simple and fast trading solutions. Easy to grasp and master trading in just a few minutes",
+    "secTitle": "High security",
+    "secDesc": "Keeping your assets safe is always our top priority. With world-leading security technology, your money will always be safe with TDTRADE.",
+    "collTitle": "Non-stop trading",
+    "collDesc": "Trading 24/7 with super attractive affiliate commissions, TDTRADE traders can always optimize their profits.",
+    "startTitle": "start for free",
+    "startDesc": "Deposits and Withdrawals are completed quickly, ensuring a smooth trading experience for all of our customers.",
+    "techTitle": "Advanced technology",
+    "techDesc": "The TDTRADE team is always upgrading and innovating our trading platform to ensure that our customers are always satisfied when trading and making money on TDTRADE."
+  },
+  "s4": {
+    "title": "Customers talk about ROME",
+    "content1": "The first time investing bitcoin on the exchange, I was overwhelmed with so many complicated indicators and tools, it's amazing that ROME exchange can help me simplify the indicators so much system to give effective commands.",
+    "content2": "Reputation comes first, which I can trust in ROME after my hundreds of transactions. The support team is always there whenever I have a problem and solves the problem as quickly as possible.",
+    "content3": "I am a small investor, the transaction fees of the current exchanges are too high, that is always a concern for me. Fortunately, I found the ROME exchange, with a fee that I consider suitable."
+  },
+  "s5": {
+    "title": "Start trading with ROME today",
+    "desc": "Easily register, deposit and trade in minutes. Catch up with market trends in a split second, profit instantly."
+  },
+  "footer": {
+    "about": "About us",
+    "support": "Support",
+    "security": "Security",
+    "lang": "Language",
+    "broker": "Digital Asset Exchange",
+    "faq": "Frequently asked questions",
+    "vip": "VIP member benefits",
+    "policy": "Terms and condition",
+    "warning": "Risk warning",
+    "indemnity": "Indemnity"
+  },
+  "risk": "Risk Warning: Trading and investing in digital options carries a significant degree of risk and is not appropriate and/or appropriate for all clients. Please ensure that you carefully consider your investment objectives, level of experience and risk appetite before buying or selling any digital asset. You should be fully aware and understand all the risks involved in trading and investing in digital assets, you should not invest funds that you cannot afford to lose. You are granted limited, non-exclusive rights to use the intellectual property contained in this website for your personal, non-commercial, non-transferable use in connection with the services provided on the website.",
+
+  "email": "Email address",
+  "email_nickname": "Email/Nickname",
+  "password": "Password",
+  "nickname": "Nickname",
+  "invite_code": "Invite code",
+  "gg_code": "Google / Telegram Authentication",
+  "digits": "Digits",
+  "login": "Login",
+  "signup": "Sign up",
+  "resend": "Resend",
+  "forgot": "Forgot",
+  "submit": "Submit",
+  "optional": "optional",
+  "login_page": "Login page",
+
+  "enter_email_address": "Enter email address",
+  "enter_password": "Enter password",
+  "enter_email_nickname": "Enter email/nickname",
+  "enter_invite_code": "Enter invite code",
+  "enter_nickname": "Enter nickname",
+  "enter_auth_code": "Enter code (6digist)",
+
+  "error_email": "Invalid email address. Please try again.",
+  "error_nickname": "A nickname must be between 4 and 20 characters, start with a letter and contain no special characters.",
+  "error_password": "Your password must be at least 6 characters long.",
+
+  "register_successfully": "Registration successfully.",
+  "a_verification_link_to": "A verification link has been sent to",
+  "wait_to_get_verification_link": "Please wait a few minutes and get verification link to active your account.",
+
+  "security_verification": "Security verification",
+  "google_authentication_code": "Google/Telegram Authentication Code",
+
+  "forgot_your_password": "Forgot your password",
+  "resend_email": "Resend email",
+
+  "resend_confirmation_email": "Resend confirmation email",
+  "please_enter_email_to_resend": "Please enter your email to resend your confirmation email.",
+
+  "you_have_account": "Have a TDTrade account?",
+  "login_to_your_account": "Log in to your account",
+  "you_need_a_account": "Need a TDTrade account",
+  "create_account": "Create TDTrade account",
+  "didnt_receive_confirm_email": "Didn't receive a confirmation email?",
+  "request_new_one": "Request a new one",
+  "err_registration_error": "Registration error",
+  "err_login_error": "Login error",
+  "redirect_to": "Redirecting to"
+}
