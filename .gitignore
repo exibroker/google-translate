@@ -6,6 +6,6 @@ translateCache*
 source*
 cache*
 destination*
-source
-cache
-destination
+source/**
+cache/**
+destination/**
