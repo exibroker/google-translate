@@ -1,5 +1,5 @@
 {
-  "name": "gtd-scripts",
+  "name": "GoogleTranslate-scripts",
   "version": "0.0.1",
   "description": "Scripts for getting things done.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tewen/gtd-scripts.git"
+    "url": "git+https://github.com/exibroker/google-translate.git"
   },
-  "author": "Trevor Ewen",
+  "author": "ExiBroker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tewen/gtd-scripts/issues"
+    "url": "https://github.com/exibroker/google-translate/issues"
   },
-  "homepage": "https://github.com/tewen/gtd-scripts#readme",
+  "homepage": "https://github.com/exibroker/google-translate#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "es6-promisify": "^5.0.0",

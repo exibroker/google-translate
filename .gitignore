@@ -3,3 +3,9 @@
 node_modules
 keys.json
 translateCache*
+source/*
+cache/*
+destination/*
+source/
+cache/
+destination/
