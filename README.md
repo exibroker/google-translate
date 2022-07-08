@@ -4,6 +4,12 @@ Scripts for getting things done.
 
 The translate-json node script is simple. It takes an input .json file, a comma separated list of language codes supported by [Google Translate](https://ctrlq.org/code/19899-google-translate-languages), and an optional api key.
 
+# Create Dir
+
+    - destination
+    - source
+    - cache
+
 ## Usage with an API Key
 
 node index.js en ja,ko,zh-CN,th,id,km,vi YOUR API_KEY
