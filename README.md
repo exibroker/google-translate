@@ -12,7 +12,7 @@ The translate-json node script is simple. It takes an input .json file, a comma 
 
 ## Usage with an API Key
 
-node index.js en ja,ko,zh-CN,th,id,km,vi YOUR API_KEY
+node index.js en de,fr,ru,ja,ko,zh-CN,th,id,km,vi AIzaSyB2xgBmonmkUB_kZGljvK6GISrfVIKe64E
 
 ## Usage without an API Key
 
@@ -22,4 +22,4 @@ This free version will let you batch-translate a file until you start beeing rej
 
 ### Future Improvements:
 
-- Specifying output file name and location.
+-   Specifying output file name and location.
