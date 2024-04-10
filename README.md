@@ -16,7 +16,7 @@ node index.js en de,fr,ru,ja,ko,zh-CN,th,id,km,vi AIzaSyB2xgBmonmkUB_kZGljvK6GIS
 
 ## Usage without an API Key
 
-node index.js en ja,ko,zh-CN,th,id,km,vi
+node index.js en ja,ko,zh-CN,th,id,km,vi,lo,fr,it,de AIzaSyB2xgBmonmkUB_kZGljvK6GISrfVIKe64E
 
 This free version will let you batch-translate a file until you start beeing rejected by Google's servers. As this script has caching enabled, it's possible to translate files incrementally. New requests will become available in 2 hours aproximately.
 

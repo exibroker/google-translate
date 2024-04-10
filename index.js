@@ -85,7 +85,7 @@ const translate = async () => {
             let cached = line.split("|");
             if (cached[0]) dictionaryList[languageKey][cached[0]] = cached[1];
           });
-        } catch (error) {}
+        } catch (error) { }
       };
       const cachedIndex = (key, value, languageKey) => {
         const line = key + "|" + value + "\n";
@@ -129,7 +129,7 @@ const translate = async () => {
                 .catch((err) => console.log(err))
                 .then((text) => {
                   //Sets the value in the accumulator
-                  _.set(accumulator, keyChain, text);
+                  _.set(accumulator, keyChain, text?.text);
                   //This needs to be returned to it's eventually written to json
                   return accumulator;
                 });
